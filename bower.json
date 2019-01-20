@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "authors": [
+    "Thomas Lothe <brookfield226@gmail.com>"
+  ],
+  "description": "Hackstudio Backend",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "Private/Proprietary",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "foundation-apps": "~1.1.0",
+    "angular-ui-date": "~0.0.11",
+    "jquery": "^2.2.0"
+  }
+}
